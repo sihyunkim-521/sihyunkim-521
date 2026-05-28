@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sihyunkim-521&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sihyunkim-521&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="streak graph" />
 </div>
 
 ###
