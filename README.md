@@ -1,4 +1,3 @@
-md id="ayomf9"
 <div align="center">
 
 # 🤖 Sihyunkim 🤖
