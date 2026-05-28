@@ -1,7 +1,7 @@
 md id="ayomf9"
 <div align="center">
 
-# 🤖 SHKIM 🤖
+# 🤖 Sihyunkim 🤖
 
 ### Robotics Developer
 
