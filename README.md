@@ -7,29 +7,25 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros2 logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="30" alt="ros2 badge" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="vscode badge" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/RViz2-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" height="30" alt="rviz badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github badge" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Gazebo-2F2F2F?style=for-the-badge&logo=gazebo&logoColor=white" height="30" alt="gazebo badge" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion badge" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker badge" />
 </div>
 
 ###
