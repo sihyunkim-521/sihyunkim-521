@@ -46,19 +46,7 @@
 </div>
 
 ###
-'''
-<h3 align="center">🚀 Projects 🚀</h3>
 
 <div align="center">
-
-🤖 RH56 RViz Simulation  
-🚗 Autonomous Driving Project  
-📦 Parking Delivery Robot  
-
-</div>
-'''
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ROS2+Developer;Docker+%26+Ubuntu;Robotics+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;Docker+%26+Ubuntu;ROS2+Engineer" alt="Typing SVG" />
 </div>
