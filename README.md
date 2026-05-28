@@ -27,8 +27,7 @@
 
 ## 📊 GitHub Stats 📊
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihyunkim-521%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsihyunkim-521&label=hits&icon=github&color=%2379C83D)](https://hitscounter.dev)
 
 ## 🔥 Most Used Languages 🔥
 
