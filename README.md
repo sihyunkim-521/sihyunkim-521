@@ -44,11 +44,6 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyun-521&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sihyun-521&show_icons=true">
-
-###
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;Robotics+Engineer" alt="Typing SVG" />
 </div>
