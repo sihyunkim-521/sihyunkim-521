@@ -31,8 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihyunkim-521&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunkim-521&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sihyunkim-521&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunkim-521&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
 </div>
 
 ###
@@ -44,5 +45,5 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;Docker+%26+Ubuntu;ROS2+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;Robotics+Engineer" alt="Typing SVG" />
 </div>
