@@ -42,12 +42,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sihyunkim-521&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="180" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Developer;Robotics+Engineer" alt="Typing SVG" />
 </div>
 
