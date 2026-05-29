@@ -3,25 +3,34 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros2 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=ros" height="60" />
+  <img width="10" />
 
-###
+  <img src="https://skillicons.dev/icons?i=linux" height="60" />
+  <img width="10" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="vscode badge" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github badge" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion badge" />
+
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker badge" />
+
+  <img src="https://skillicons.dev/icons?i=md" height="60" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=notion" height="60" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
 </div>
 
 ###
