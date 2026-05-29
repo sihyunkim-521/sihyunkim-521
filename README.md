@@ -31,14 +31,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihyunkim-521&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunkim-521&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sihyunkim-521&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="streak graph" />
 </div>
 
