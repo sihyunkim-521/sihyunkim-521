@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3D6D6,100:EBCACA&height=200&section=header&text=Sihyun%20Github!&fontSize=90&fontColor=FFFFFF" />
 
 ###
-
 <h3 align="center">Robotics Developer 🚀</h3>
 
 ###
