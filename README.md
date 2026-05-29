@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="center">Robotics Developer 🚀</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros2 logo" />
   <img width="12" />
